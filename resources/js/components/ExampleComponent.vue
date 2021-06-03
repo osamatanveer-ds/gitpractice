@@ -6,7 +6,9 @@
                     <div class="card-header">Example Component</div>
 
                     <div class="card-body">
-                        I'm an example component.
+                        I'm an example component. from the git hash
+                        ss
+
                     </div>
                 </div>
             </div>
